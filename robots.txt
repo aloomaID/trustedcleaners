@@ -1,0 +1,5 @@
+﻿User-agent: *
+Allow: /
+
+
+Sitemap: https://trustedcleaners.elegmaidservice.xyz/sitemap_index.xml
